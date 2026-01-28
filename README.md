@@ -3,7 +3,7 @@
 Welcome! This repository contains an index of my data analytics projects.
 
 ## 📊 Tableau Projects
-- (coming soon)
+ [Airbnb Listing Analytict Dashboard](https://github.com/bayucp30/tableau-airbnb-analytics-dashboard/tree/main)
 
 ## 📈 Power BI Projects
 - (coming soon)
