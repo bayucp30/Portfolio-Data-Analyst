@@ -1,4 +1,4 @@
-# Data Analytics Portfolio — Bayu Chandra Putra
+# Data Analyst Portfolio — Bayu Chandra Putra
 
 Welcome! This repository contains an index of my data analytics projects.
 
