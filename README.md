@@ -9,7 +9,7 @@ Welcome! This repository contains an index of my data analytics projects.
 - (coming soon)
 
 ## 🧮 SQL Projects
-- (coming soon)
+- [Data Cleaning — Global Company Layoffs](https://github.com/bayucp30/sql-layoffs-data-cleaning)
 
 ## 🐍 Python Projects
 - (coming soon)
