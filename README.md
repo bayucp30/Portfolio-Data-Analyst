@@ -12,7 +12,7 @@ Welcome! This repository contains an index of my data analytics projects.
 - [Data Cleaning — Global Company Layoffs](https://github.com/bayucp30/sql-layoffs-data-cleaning)
 
 ## 🐍 Python Projects
-- Working on it.
+- [GA-LSTM - SMILES CLASSIFICATION](https://github.com/bayucp30/ga-lstm-smiles-classification)
 
 ## 📂 Excel Projects
 - (coming soon)
