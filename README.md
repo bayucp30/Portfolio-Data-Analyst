@@ -19,4 +19,5 @@ Welcome! This repository contains an index of my data analytics projects.
 
 ---
 🔗 GitHub Profile: https://github.com/bayucp30
+
 🔗 LinkedIn: https://linkedin.com/in/bayuchandraputra
