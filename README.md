@@ -15,7 +15,7 @@ Welcome! This repository contains an index of my data analytics projects.
 - [GA-LSTM - SMILES Classification](https://github.com/bayucp30/ga-lstm-smiles-classification)
 
 ## 📂 Excel Projects
-- [Store Analytics Performance Project](https://github.com/bayucp30/store-performance-analytics-excel)
+- [Store Analytics Performance](https://github.com/bayucp30/store-performance-analytics-excel)
 
 ---
 🔗 GitHub Profile: https://github.com/bayucp30
