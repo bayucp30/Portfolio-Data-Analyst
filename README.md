@@ -7,7 +7,7 @@ Welcome! This repository contains an index of my data analytics projects.
 
 ## 📈 Power BI Projects
 - [Data Professional Survey Analysis](http://github.com/bayucp30/data-professional-survey-powerbi)
-- [Retail Performance Dashboard](https://github.com/bayucp30/retail-performance-powerbi-dashboard)
+- [Weekly Business Performance](https://github.com/bayucp30/weekly-business-performance-powerbi)
 
 ## 🧮 SQL Projects
 - [Data Cleaning — Global Company Layoffs](https://github.com/bayucp30/sql-layoffs-data-cleaning)
