@@ -6,7 +6,7 @@ Welcome! This repository contains an index of my data analytics projects.
 - [Airbnb Listing Analytict Dashboard](https://github.com/bayucp30/tableau-airbnb-analytics-dashboard/tree/main)
 
 ## 📈 Power BI Projects
-- [Data Professional Survey Analysis](http://github.com/bayucp30/data-professional-survey-powerbi/blob/main/README.md)
+- [Data Professional Survey Analysis](http://github.com/bayucp30/data-professional-survey-powerbi)
 - [Retail Performance Dashboard](https://github.com/bayucp30/retail-performance-powerbi-dashboard)
 
 ## 🧮 SQL Projects
