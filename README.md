@@ -11,6 +11,7 @@ This repository contains an index of my data analytics projects.
 
 ## 🧮 SQL Projects
 - [Data Cleaning — Global Company Layoffs](https://github.com/bayucp30/sql-layoffs-data-cleaning)
+- adding more soon!
 
 ## 🐍 Python Projects
 - [GA-LSTM - SMILES Classification](https://github.com/bayucp30/ga-lstm-smiles-classification)
