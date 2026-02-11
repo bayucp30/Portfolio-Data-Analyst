@@ -1,6 +1,6 @@
 # Data Analyst Portfolio — Bayu Chandra Putra
 
-Welcome! This repository contains an index of my data analytics projects.
+This repository contains an index of my data analytics projects.
 
 ## 📊 Tableau Projects
 - [Airbnb Listing Analytict Dashboard](https://github.com/bayucp30/tableau-airbnb-analytics-dashboard/tree/main)
