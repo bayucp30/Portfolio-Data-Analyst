@@ -11,6 +11,7 @@ Welcome! This repository contains an index of my data analytics projects.
 
 ## 🧮 SQL Projects
 - [Data Cleaning — Global Company Layoffs](https://github.com/bayucp30/sql-layoffs-data-cleaning)
+- [Training Impact Analysis — SQL & Python](https://github.com/bayucp30/training_impact_analysis/)
 - adding more soon!
 
 ## 🐍 Python Projects
